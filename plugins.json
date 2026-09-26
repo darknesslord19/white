@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://github.com/darknesslord19/white/plugins/ÖrnekFilm.cs3",
+    "status": 1,
+    "version": 100,
+    "name": "ÖrnekFilm",
+    "internalName": "örnekfilm",
+    "authors": [
+      "Anonim"
+    ],
+    "description": "ÖrnekFilm - CloudStream eklentisi",
+    "repositoryUrl": "https://github.com/darknesslord19/white/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https%3A%2F%2Fwww.fullhdfilmizlesene.now&sz=128",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "apiVersion": 1
+  }
+]
