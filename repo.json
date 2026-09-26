@@ -1,0 +1,8 @@
+{
+  "name": "Benim Eklenti Depom",
+  "description": "Kişisel CloudStream eklenti deposu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://github.com/darknesslord19/white/plugins.json"
+  ]
+}
